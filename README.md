@@ -1,0 +1,1 @@
+A beginner friendly voice assistant project that works by listening,recognizing and speaking. This listens to voice commands and recognizes them using speech recognition and responds it using Text to speech.

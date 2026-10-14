@@ -32,4 +32,10 @@ BMI = Weight (kg) / Height (m)²
 4. Enter your weight and height when prompted.
 
 ## Screenshots
-Screenshots will be added soon.
+###BMI calculation:
+<img width="1920" height="1080" alt="Screenshot 2026-10-14 064821" src="https://github.com/user-attachments/assets/c3dea4e4-8ce1-45d7-99ad-def0753138b0" />
+## Invalid input handling:
+<img width="1920" height="1080" alt="Screenshot 2026-10-14 065023" src="https://github.com/user-attachments/assets/59699b8b-8795-488e-8abc-9060095f9bcc" />
+some screenshots will be updated soon.....
+
+
